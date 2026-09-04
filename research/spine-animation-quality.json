@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T14:22:53.100Z",
+  "runtimePath": "D:\\project\\wallpaper-engine\\blue-archive\\wallpaper-niya\\public\\vendor\\spine-webgl-4.2.js",
+  "source": {
+    "skeleton": "local-assets/original/model/my-character.skel",
+    "atlas": "local-assets/original/model/my-character.atlas",
+    "skeletonBytes": 749879,
+    "atlasBytes": 8834,
+    "spineVersion": "4.2.33"
+  },
+  "skeleton": {
+    "width": 3460.1767578125,
+    "height": 2575.0517578125,
+    "animations": 22
+  },
+  "animations": [
+    {
+      "name": "Dummy",
+      "duration": 0.03333333507180214,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Idle_01",
+      "duration": 10.000000953674316,
+      "backgroundEffectTranslateTimelines": 3
+    },
+    {
+      "name": "LookEnd_01_A",
+      "duration": 0.5,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "LookEnd_01_M",
+      "duration": 0.5,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_01_M",
+      "duration": 0.6666666865348816,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_02_A",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Look_02_M",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_A",
+      "duration": 1.1666667461395264,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "PatEnd_01_M",
+      "duration": 1.1666667461395264,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_A",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Pat_01_M",
+      "duration": 0.3333333432674408,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Start_Idle_01",
+      "duration": 20.666667938232422,
+      "backgroundEffectTranslateTimelines": 3
+    },
+    {
+      "name": "Talk_01_A",
+      "duration": 21.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_01_M",
+      "duration": 21.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_A",
+      "duration": 20.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_02_M",
+      "duration": 20.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_A",
+      "duration": 23.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_03_M",
+      "duration": 23.33333396911621,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_A",
+      "duration": 15.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_04_M",
+      "duration": 15.000000953674316,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_A",
+      "duration": 16,
+      "backgroundEffectTranslateTimelines": 0
+    },
+    {
+      "name": "Talk_05_M",
+      "duration": 16,
+      "backgroundEffectTranslateTimelines": 0
+    }
+  ],
+  "violations": [],
+  "ignoredViolations": [],
+  "status": "passed"
+}
